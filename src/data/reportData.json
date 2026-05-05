@@ -1,0 +1,24 @@
+{
+  "en": {
+    "date_reference": "Compared with 27.10.2025 MRI",
+    "acl": "Mid-zone interstitial partial tear findings",
+    "medial_meniscus": "Posteromedial corner complex tear in posterior horn of medial meniscus",
+    "lateral_meniscus": "Complex tear in posterior horn of lateral meniscus with 2.5 mm parameniscal cyst",
+    "mcl": "Distal-half thinning compatible with strain; continuity preserved",
+    "pcl": "Continuity preserved, mildly undulated appearance",
+    "translation": "Mild anterior tibial translation, more prominent in lateral compartment",
+    "edema": "Mild subcutaneous medial edema and mild deep posteromedial soft-tissue edema",
+    "other": "Cartilage surfaces and joint fluid are within normal limits; mild stable sclerotic-focus suspicion in tibial intercondylar area"
+  },
+  "tr": {
+    "date_reference": "27.10.2025 tarihli sol diz MRG ile karsilastirmali",
+    "acl": "ACL orta zonda interstisyel-parsiyel yirtik lehine bulgular",
+    "medial_meniscus": "Medial meniskus arka boynuz posteromedial kosede kompleks yirtik",
+    "lateral_meniscus": "Lateral meniskus arka boynuzda kompleks yirtik ve 2.5 mm parameniskal kist",
+    "mcl": "MCL distal yarida zorlanma lehine incelme; kontinuitesi korunmus",
+    "pcl": "PCL kontinuitesi korunmus, hafif ondulen gorunum",
+    "translation": "Lateral kompartmanda belirgin olmak uzere hafif anterior tibial translasyon",
+    "edema": "Medial cilt alti yumusak dokuda ve posteromedial derin yumusak dokuda hafif odem",
+    "other": "Artikuler kikirdak yuzeyler ve eklem ici sivi normal sinirda; tibia interkondiler alanda hafif sklerotik odak suphesi"
+  }
+}
