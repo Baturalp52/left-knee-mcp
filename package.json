@@ -1,0 +1,25 @@
+{
+  "name": "left-knee-mcp",
+  "version": "1.0.0",
+  "description": "Funny MCP server for my left knee story",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baturalp52/left-knee-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Baturalp52/left-knee-mcp/issues"
+  },
+  "homepage": "https://github.com/Baturalp52/left-knee-mcp#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  }
+}

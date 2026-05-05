@@ -1,0 +1,38 @@
+{
+  "manifest_version": "0.2",
+  "name": "left-knee-mcp",
+  "version": "1.0.0",
+  "description": "Funny MCP server for my left knee story",
+  "author": {
+    "name": "Baturalp Sönmez",
+    "email": "baturalpsonmez@gmail.com",
+    "url": "https://baturalp.is-a.dev"
+  },
+  "homepage": "https://baturalp.is-a.dev",
+  "documentation": "https://github.com/Baturalp52/left-knee-mcp",
+  "support": "https://github.com/Baturalp52/left-knee-mcp",
+  "icon": "assets/icon.png",
+  "server": {
+    "type": "node",
+    "entry_point": "index.js",
+    "mcp_config": {
+      "command": "node",
+      "args": [
+        "${__dirname}/index.js"
+      ],
+      "env": {}
+    }
+  },
+  "keywords": [
+    "left knee",
+    "meniscus tear",
+    "torn acl",
+    "medical",
+    "orthopedics"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baturalp52/left-knee-mcp.git"
+  }
+}
